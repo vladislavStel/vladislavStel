@@ -2,7 +2,7 @@
 - 👀  I'm interested in backend development.
   
 - 🌱 I am currently working with the following technologies:
-  ### *Programming language: Java(medium), (Html, Css - basic)*
+  - *Programming language: Java(medium), (Html, Css - basic)*
   - *Frameworks: Spring Framework, Spring Boot, Spring Data JPA, Hibernate*
   - *Databases: PostgreSQL, H2*
   - *Other technologies: JDBC, Git, Docker, Kubernates, RabbitMQ, JUnit, Liquibase*
