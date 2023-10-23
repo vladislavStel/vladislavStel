@@ -1,16 +1,11 @@
-### Hi there 👋
+ 👋 Hi, I’m @vladislavStel
+- 👀  I'm interested in backend development.
+  
+- 🌱 I am currently working with the following technologies:
+# Programming language: Java(medium), (Html, Css - basic)
+# Frameworks: Spring Framework, Spring Boot, Spring Data JPA, Hibernate
+# Databases: PostgreSQL, H2
+# Other technologies: JDBC, Git, Docker, Kubernates, RabbitMQ, JUnit, Liquibase
 
-<!--
-**vladislavStel/vladislavStel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- In the process of studying - Kotlin
+- 📫 How to reach me ... https://t.me/MarcusRite
