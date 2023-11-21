@@ -4,7 +4,7 @@
 - 🌱 I am currently working with the following technologies:
   - *Programming language: Java(medium), (Html, Css - basic)*
   - *Frameworks: Spring Framework, Spring Boot, Spring Data, Hibernate*
-  - *Databases: PostgreSQL, H2*
+  - *Databases & Cloud storage: PostgreSQL, H2, MinIO*
   - *Other technologies: JDBC, Git, Docker, Kubernates, RabbitMQ, JUnit, Liquibase*
 
 - In the process of studying - Kotlin
